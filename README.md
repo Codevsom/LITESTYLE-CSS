@@ -6,8 +6,9 @@ Litestyle is a minimal CSS micro-framework designed to streamline your web devel
 
 There are two main ways to use Litestyle:
 
-1. **Download the files:** Download the Litestyle files from a convenient location (link to be provided later). Include the desired file (litestyle.css or litestyle.min.css) in your HTML document using the `<link>` tag.
-2. **CDN (Content Delivery Network):** Use a CDN link to include Litestyle directly in your project. The specific CDN URL will be provided when the framework is hosted.
+1. **Download the files:** Download the Litestyle.css file from Github .Include litestyle.css in your HTML document using the `<link>` tag.
+2. **CDN (Content Delivery Network):** Use a CDN link to include Litestyle directly in your project.
+cdn:https://litestyle.netlify.com/litestyle.css
 
 ### Core Styles
 
