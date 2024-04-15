@@ -9,7 +9,7 @@ There are three main ways to use Litestyle:
 1. **Download the files:** Download the Litestyle.css file from Github .Include litestyle.css in your HTML document using the `<link>` tag.
 2. **CDN (Content Delivery Network):** Use a CDN link to include Litestyle directly in your project.
 cdn:https://litestyle.netlify.com/litestyle.css.
-3.**install via npm:use npm i litestyle.css command on your command line to get litestylecss installed on your device
+3.**install via npm**:use npm i litestyle.css command on your command line to get litestylecss installed on your device
 ### Core Styles
 
 Litestyle provides basic styles for common HTML elements like headings, paragraphs, lists, links, and images. These styles are designed to be unobtrusive and can be easily overridden with your own custom styles.
